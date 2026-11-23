@@ -11,5 +11,5 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["server", "shared"]
+  "include": ["server", "shared", "drizzle", "tests"]
 }

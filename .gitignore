@@ -3,3 +3,6 @@ dist/
 .env
 .env*.local
 *.log
+
+# Local data: AMFI cache, dev JSON store, dev JWT secret
+.data/
